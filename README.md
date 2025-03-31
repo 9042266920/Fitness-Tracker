@@ -19,12 +19,12 @@ The Personal Fitness Tracker is a Python-based application designed to help user
 📂 **Project Structure**  
 
 📁 Personal-Fitness-Tracker
-│── 📄 app.py                 # Main Streamlit application
-│── 📄 fitness_tracker.ipynb   # Jupyter Notebook for data analysis
-│── 📄 calories.csv            # Dataset for calorie tracking
-│── 📄 exercise.csv            # Dataset for exercise tracking
-│── 📄 requirements.txt        # List of required dependencies
-│── 📄 README.md               # Project documentation
+ 📄 app.py                 # Main Streamlit application
+ 📄 fitness_tracker.ipynb   # Jupyter Notebook for data analysis
+ 📄 calories.csv            # Dataset for calorie tracking
+ 📄 exercise.csv            # Dataset for exercise tracking
+ 📄 requirements.txt        # List of required dependencies
+ 📄 README.md               # Project documentation
 
 🔧 **Installation Guide**  
 
